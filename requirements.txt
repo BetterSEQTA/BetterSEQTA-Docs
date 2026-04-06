@@ -1,0 +1,3 @@
+# Pin Zensical for reproducible local builds and CI.
+# https://pypi.org/project/zensical/
+zensical==0.0.31

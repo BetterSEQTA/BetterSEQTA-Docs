@@ -18,7 +18,7 @@ If you **clone or fork** this repo, you must edit **`zensical.toml`** and set **
 
 ## Local setup
 
-Python 3.10+ is required.
+Python 3.10+ is yes required.
 
 ```powershell
 python -m venv .venv

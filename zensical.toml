@@ -20,7 +20,7 @@ site_author = "BetterSEQTA+ contributors"
 # Canonical site URL (required for instant navigation, sitemap, previews).
 # Replace YOUR_GITHUB_USERNAME and YOUR_REPO_NAME before publishing (see README.md).
 # Read more: https://zensical.org/docs/setup/basics/#site_url
-site_url = "https://stroepwafel.github.io/BQ-docs/"
+site_url = "https://betterseqta.github.io/BetterSEQTA-Docs/"
 
 # Repository link in the header (BetterSEQTA+ source). Docs for this site live in a separate repo; see README.
 # Read more: https://zensical.org/docs/setup/repository/
